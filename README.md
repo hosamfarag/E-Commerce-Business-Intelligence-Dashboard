@@ -28,5 +28,4 @@ This project delivers a comprehensive 4-page Power BI dashboard designed for a g
 * **The Killer Insight:** The **8.20% cancellation rate** was evenly distributed across all digital payment methods (Apple Pay, PayPal, Credit Card). This indicates that the cancellation problem is rooted in **post-sale operations and shipping delays**, not customer payment behavior.
 
 ## 📸 Dashboard Preview
-![Executive Summary](E-commerce_Page_1.png)
-![Executive Summary](E-commerce_Page_2.png)
+[E-Commerce-Business-Intelligence-Dashboard](E-commerce_Page_1.jpg)
