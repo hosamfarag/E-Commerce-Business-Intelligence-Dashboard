@@ -29,3 +29,6 @@ This project delivers a comprehensive 4-page Power BI dashboard designed for a g
 
 ## 📸 Dashboard Preview
 [E-Commerce-Business-Intelligence-Dashboard](E-commerce_Page_1.jpg)
+[E-Commerce-Business-Intelligence-Dashboard](E-commerce_Page_2.jpg)
+[E-Commerce-Business-Intelligence-Dashboard](E-commerce_Page_3.jpg)
+[E-Commerce-Business-Intelligence-Dashboard](E-commerce_Page_4.jpg)
